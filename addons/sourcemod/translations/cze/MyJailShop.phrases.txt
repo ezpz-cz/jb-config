@@ -1,0 +1,23 @@
+// Exported from SourceMod Translator
+// Date: 2017-01-15 20:53:09 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/268
+//
+"Phrases"
+{
+
+	"shop_alive"
+	{
+    //"en"		"You need to be alive to buy items!"
+		"cze"		"Musíš být naživu, abys mohl nakupovat předměty!"
+	}
+
+  "shop_getset"
+	{
+		"#format"	"{1:d},{2:N}"
+    //"en"		"Your ¢redits was set to {1} by {2}"
+		"cze"		"Tvoje kredity se nastavily na {1} (provedl: {2})"
+	}
+}

@@ -1,0 +1,225 @@
+// Exported from SourceMod Translator
+// Date: 2016-12-11 19:33:00 UTC
+// Language: English (en)
+// 
+// To view other translations for this plugin, please visit:
+// http://translator.mitchdempsey.com/sourcemod_plugins/200
+//
+"Phrases"
+{
+
+	"dealdamage_tag"
+	{
+		"en"		"[{green}MyJB.DealDamage{default}]"
+	}
+
+	"dealdamage_need"
+	{
+		"#format"	"{1:i},{2:N}"
+		"en"		"{purple}{2}{default} has voted. {purple}{1}{default} vote(s) required to play {darkred}DealDamage."
+	}
+
+	"dealdamage_rounds"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Round {purple}{1}{default} of {purple}{2}."
+	}
+
+	"dealdamage_twin_nc"
+	{
+		"#format"	"{1:i}"
+		"en"		"Prisoners win with {1} HP damage"
+	}
+
+	"dealdamage_voting"
+	{
+		"en"		"Voting for Deal Damage Day is {purple}disabled"
+	}
+
+	"dealdamage_setbywarden"
+	{
+		"en"		"Set Deal Damage Day by Warden is {purple}disabled!"
+	}
+
+	"dealdamage_setbyadmin"
+	{
+		"en"		"Set Deal Damage Day by Admin is {purple}disabled!"
+	}
+
+	"dealdamage_ctwin_nc"
+	{
+		"#format"	"{1:i}"
+		"en"		"The Guards win with {1} HP damage!"
+	}
+
+	"dealdamage_end"
+	{
+		"en"		"{purple}Deal Damage Day{default} has ended!"
+	}
+
+	"dealdamage_next"
+	{
+		"en"		"The following round will be: {purple}Deal Damage Day."
+	}
+
+	"dealdamage_next_nc"
+	{
+		"en"		"The following round will be: Deal Damage Day."
+	}
+
+	"dealdamage_start"
+	{
+		"en"		"{purple}Deal Damage Day{default} has begun!"
+	}
+
+	"dealdamage_start_nc"
+	{
+		"en"		"Deal Damage Day has begun!"
+	}
+
+	"dealdamage_voted"
+	{
+		"en"		"You have already voted for {purple}Deal Damage Day!"
+	}
+
+	"dealdamage_progress"
+	{
+		"#format"	"{1:s}"
+		"en"		"The event ({darkred}{1} {default}is {purple}already in progress!"
+	}
+
+	"dealdamage_disabled"
+	{
+		"en"		"Deal Damage Day is currently {purple}disabled!"
+	}
+
+	"dealdamage_timeuntilstart_nc"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1} seconds until round start!"
+	}
+
+	"dealdamage_info_title"
+	{
+		"en"		"DealDamageDay er aktiveret!"
+	}
+
+	"dealdamage_info_title"
+	{
+		"en"		"DealDamageDay er aktiveret!"
+	}
+
+	"dealdamage_info_line1"
+	{
+		"en"		"Deal Damage Day is now Activated!"
+	}
+
+	"dealdamage_info_line2"
+	{
+		"en"		"Deal as much Damage as you can to the opposing team!"
+	}
+
+	"dealdamage_info_line3"
+	{
+		"en"		"The team with the most dealt damage wins!"
+	}
+
+	"dealdamage_info_line4"
+	{
+		"en"		"All usual Jailbreak rules are repealed"
+	}
+
+	"dealdamage_info_line5"
+	{
+		"en"		"Last Requests are disabled during this round!"
+	}
+
+	"dealdamage_info_line6"
+	{
+		"en"		"Everyone is allowed to go anywhere within the map!"
+	}
+
+	"dealdamage_info_line7"
+	{
+		"en"		"Dont be an Asshole!"
+	}
+
+	"dealdamage_wait"
+	{
+		"#format"	"{1:i}"
+		"en"		"You must wait {purple}{1}{default} more rounds for an Event Day!"
+	}
+
+	"dealdamage_result"
+	{
+		"en"		"Deal Damage Day Results:"
+	}
+
+	"dealdamage_total"
+	{
+		"#format"	"{1:i}"
+		"en"		"Total Damage: {1} HP"
+	}
+
+	"dealdamage_most"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"Most Damage Dealt: {1} Damage: {2} HP"
+	}
+
+	"dealdamage_ct"
+	{
+		"#format"	"{1:i}"
+		"en"		"Guard Damage: {1} HP"
+	}
+
+	"dealdamage_t"
+	{
+		"#format"	"{1:i}"
+		"en"		"Prisoner Damage: {1} HP"
+	}
+
+	"dealdamage_bestct"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"Best Guard: {1} Damage: {2} HP"
+	}
+
+	"dealdamage_bestt"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"Best Prisoner: {1} Damage: {2} HP"
+	}
+
+	"dealdamage_client"
+	{
+		"#format"	"{1:i}"
+		"en"		"Your Damage: {1} HP"
+	}
+
+	"dealdamage_ctdealed"
+	{
+		"en"		"CT dealt:"
+	}
+
+	"dealdamage_tdealed"
+	{
+		"en"		"T dealt:"
+	}
+
+	"dealdamage_clientdealed"
+	{
+		"en"		"You dealt:"
+	}
+
+	"dealdamage_hpdamage"
+	{
+		"en"		"HP damage"
+	}
+
+	"dealdamage_name"
+	{
+		"en"		"Deal Damage Day"
+	}
+
+}
