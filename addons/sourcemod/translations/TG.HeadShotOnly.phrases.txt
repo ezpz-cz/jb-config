@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"en"		"HeadShot only battle"
+	}
+	"ChooseWeapon"
+	{
+		"en"		"Choose weapon"
+	}
+}

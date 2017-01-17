@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"cze"		"Taser mania"
+	}
+}

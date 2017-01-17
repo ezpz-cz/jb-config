@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"cze"		"Prasečák + 500 HP"
+	}
+}

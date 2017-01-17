@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"en"		"Reload battle"
+	}
+	"ChooseWeapon"
+	{
+		"en"		"Choose weapon"
+	}
+}

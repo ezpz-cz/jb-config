@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"en"		"Hot Potato"
+	}
+	"Menu-Title"
+	{
+		"en"		"Choose game type:"
+	}
+	"Menu-OneDeath"
+	{
+		"en"		"Only one death"
+	}
+	"Menu-LastManStanding"
+	{
+		"en"		"Last man standing"
+	}
+	"Menu-ChooseFirstPotato"
+	{
+		"en"		"Choose first victim"
+	}
+}

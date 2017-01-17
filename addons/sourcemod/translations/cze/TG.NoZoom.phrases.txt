@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"cze"		"NoZoom"
+	}
+	"ChooseWeapon"
+	{
+		"cze"		"vyberte zbraň"
+	}
+}

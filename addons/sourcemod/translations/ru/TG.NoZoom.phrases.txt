@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"ru"		"Битва без прицела"
+	}
+	"ChooseWeapon"
+	{
+		"ru"		"выбери оружие"
+	}
+}

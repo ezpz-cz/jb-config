@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"cze"		"KnifeFight"
+	}
+	"ChooseHP"
+	{
+		"cze"		"vyberte počet HP"
+	}
+}

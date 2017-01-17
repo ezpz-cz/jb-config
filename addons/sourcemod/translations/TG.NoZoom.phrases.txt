@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"en"		"NoZoom battle"
+	}
+	"ChooseWeapon"
+	{
+		"en"		"Choose weapon"
+	}
+}

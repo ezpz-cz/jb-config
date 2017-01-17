@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"cze"		"Pistol zoom battle"
+	}
+	"ChooseWeapon"
+	{
+		"cze"		"vyberte zbraň"
+	}
+}

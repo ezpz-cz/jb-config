@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"cze"		"Přestřelka"
+	}
+	"ChooseWeapon"
+	{
+		"cze"		"vyberte zbraň"
+	}
+}

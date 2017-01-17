@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"ru"		"HeadShot only бой"
+	}
+	"ChooseWeapon"
+	{
+		"ru"		"выбери оружие"
+	}
+}

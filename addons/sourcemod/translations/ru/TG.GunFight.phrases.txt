@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"GameName"
+	{
+		"ru"		"Оружейная битва"
+	}
+	"ChooseWeapon"
+	{
+		"ru"		"выбери оружие"
+	}
+}
